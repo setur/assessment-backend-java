@@ -60,7 +60,7 @@ Veri yapısı olarak da:
 ### Teknik Beklentiler
 
 - Kullanılacak Teknolojiler:
-    - Jdk 1.8/117
+    - Jdk 1.8/17
     - Spring Boot 3.x
     - Maven
     - Git
